@@ -1,3 +1,12 @@
 [submodule "modules/java"]
 	path = modules/java
 	url = https://github.com/puppetlabs/puppetlabs-java.git
+[submodule "modules/sonarcube"]
+	path = modules/sonarcube
+	url = git@github.com:KrisBuytaert/puppet-sonarqube.git
+[submodule "modules/wget"]
+	path = modules/wget
+	url = https://github.com/maestrodev/puppet-wget.git
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
