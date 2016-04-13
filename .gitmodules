@@ -2,7 +2,7 @@
 	path = modules/java
 	url = https://github.com/puppetlabs/puppetlabs-java.git
 [submodule "modules/sonarcube"]
-	path = modules/sonarcube
+	path = modules/sonarqube
 	url = git@github.com:KrisBuytaert/puppet-sonarqube.git
 [submodule "modules/wget"]
 	path = modules/wget
